@@ -1,4 +1,4 @@
 #!/bin/bash
 
 usuario=$(whoami)
-echo "Hola, $usuario. ¡Bienvenido de nuevo!"
+echo "Hola, $usuario. ¡Bienvenido a mi página!"
