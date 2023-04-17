@@ -1,0 +1,4 @@
+#!/bin/bash
+
+usuario=$(whoami)
+echo "Hola, $usuario. ¡Bienvenido de nuevo!"
